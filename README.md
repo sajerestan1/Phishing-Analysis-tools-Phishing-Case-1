@@ -62,6 +62,8 @@ This project significantly improved my proficiency with tools like PhishTool and
     
 #### Analytical Skills: 
 
+#### Experience Gained:
+
 I enhanced my ability to dissect and interpret email components, which is crucial for identifying phishing attempts and other social engineering tactics.
 Security Awareness: The project deepened my understanding of how phishing campaigns are constructed and the importance of scrutinizing every element of an email.
 
@@ -78,4 +80,4 @@ By understanding the nuances of phishing emails, I can more effectively respond 
 ### Conclusion
 
 This phishing analysis project provided valuable insights into the tactics used by cybercriminals to deceive users. By carefully analyzing email headers, bodies, and URLs, I was able to identify critical information that would help in creating defensive measures against such attacks.
-Experience Gained
+
